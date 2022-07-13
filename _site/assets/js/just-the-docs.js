@@ -53,7 +53,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'http://localhost:4000/just-the-docs/assets/js/search-data.json', true);
+  request.open('GET', 'http://localhost:4000/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -155,7 +155,7 @@ function searchLoaded(index, docs) {
     if (results.length == 0) {
       var noResultsDiv = document.createElement('div');
       noResultsDiv.classList.add('search-no-result');
-      noResultsDiv.innerText = 'No results found';
+      noResultsDiv.innerText = '결과 없음';
       searchResults.appendChild(noResultsDiv);
 
     } else {
@@ -430,7 +430,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'http://localhost:4000/just-the-docs/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'http://localhost:4000/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
