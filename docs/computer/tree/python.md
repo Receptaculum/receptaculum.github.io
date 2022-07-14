@@ -7,4 +7,5 @@ has_children: false
 permalink: /computer/python
 ---
 
-**Python**에 작성된 내용이 없습니다.
+## Python 범주에 작성된 내용
+* 없음

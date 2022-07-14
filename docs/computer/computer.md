@@ -6,4 +6,5 @@ has_children: true
 permalink: /computer
 ---
 
-**컴퓨터**에 작성된 내용이 없습니다.
+## 컴퓨터 범주에 작성된 내용
+* 없음

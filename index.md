@@ -4,7 +4,8 @@ title: Index
 nav_order: 1
 permalink: /
 ---
-
+[![이미지](favicon.ico)](https://receptaculum.github.io)\
+지식, 경험과 활용의 기저
 ## 소개
 
 ```python
@@ -28,6 +29,6 @@ yours = knowledge(time)
 지식을 저장하는 블로그의 특성과 잠시나마 암담한 현실 속에서 벗어날 수 있는 인터넷 공간이라는 점을 감안하여 블로그 제목을 **Receptaculum**으로 정한 것입니다.
 
 ## TMI
-필자는 2022년 기준 대학교 2학년생이며, 전공은 전자전기공학입니다.
+* 필자는 2022년 기준 대학교 2학년생이며, 전공은 전자전기공학입니다.
 
 

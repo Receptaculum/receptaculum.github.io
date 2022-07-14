@@ -7,4 +7,5 @@ has_children: false
 permalink: /computer/linux
 ---
 
-**리눅스**에 작성된 내용이 없습니다.
+## 리눅스 범주에 작성된 내용
+* 없음

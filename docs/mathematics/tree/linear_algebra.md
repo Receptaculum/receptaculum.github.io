@@ -7,4 +7,5 @@ has_children: false
 permalink: /mathematics/linear_algebra
 ---
 
-**선형대수학**에 작성된 내용이 없습니다.
+## 선형대수학 범주에 작성된 내용
+* 없음

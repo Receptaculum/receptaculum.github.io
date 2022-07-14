@@ -7,4 +7,5 @@ has_children: false
 permalink: /mathematics/calculus
 ---
 
-**미적분**에 작성된 내용이 없습니다.
+## 미적분 범주에 작성된 내용
+* 없음

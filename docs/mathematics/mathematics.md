@@ -6,4 +6,5 @@ has_children: true
 permalink: /mathematics
 ---
 
-**수학**에 작성된 내용이 없습니다.
+## 수학 범주에 작성된 내용
+* 없음

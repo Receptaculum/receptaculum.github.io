@@ -6,4 +6,5 @@ has_children: false
 permalink: /physics
 ---
 
-**물리**에 작성된 내용이 없습니다.
+## 물리 범주에 작성된 내용
+* 없음
