@@ -3,3 +3,5 @@ Disallow: /
 Allow: /physics/
 Allow: /mathematics/
 Allow: /computer/
+
+Sitemap: https://receptaculum.github.io/sitemap.xml
