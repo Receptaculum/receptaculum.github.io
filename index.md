@@ -2,8 +2,18 @@
 layout: default
 title: Index
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-Test
+# /Index
+
+---
+
+## Receptaculum
+
+```python
+from receptaculum import knowledge
+knowledge()  
+```
+{: .fs-5 .my-1}
+Receptaculum은 각종 정보를 공유하기 위해 개설한 개인 블로그입니다. 필자는 
