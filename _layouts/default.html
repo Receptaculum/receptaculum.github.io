@@ -100,6 +100,7 @@ layout: table_wrappers
       {% endif %}
     </div>
     <div id="main-content-wrap" class="main-content-wrap">
+<!--광고 삽입부-->
       {% unless page.url == "/" %}
         {% if page.parent %}
           {%- for node in pages_list -%}
@@ -139,7 +140,7 @@ layout: table_wrappers
 
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
-          <h2 class="text-delta">Table of contents</h2>
+          <h2 class="text-delta">하위 범주</h2>
           <ul>
             {%- assign children_list = pages_list | where: "parent", page.title | where: "grand_parent", page.parent -%}
             {% for child in children_list %}

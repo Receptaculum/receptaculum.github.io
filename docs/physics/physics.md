@@ -1,9 +1,9 @@
 ---
 layout: default
-title: physics
-nav_order: 2
-has_children: true
+title: 물리
+nav_order: 3
+has_children: false
 permalink: /physics
 ---
 
-main
+**물리**에 작성된 내용이 없습니다.

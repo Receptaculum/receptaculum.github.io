@@ -1,50 +1,68 @@
 {"0": {
-    "doc": "cam",
-    "title": "cam",
-    "content": "asdsss . ",
-    "url": "http://localhost:4000/docs/physics/cam/",
-    "relUrl": "/docs/physics/cam/"
+    "doc": "미적분",
+    "title": "미적분",
+    "content": "미적분에 작성된 내용이 없습니다. ",
+    "url": "http://localhost:4000/mathematics/calculus",
+    "relUrl": "/mathematics/calculus"
   },"1": {
+    "doc": "컴퓨터",
+    "title": "컴퓨터",
+    "content": "컴퓨터에 작성된 내용이 없습니다. ",
+    "url": "http://localhost:4000/computer",
+    "relUrl": "/computer"
+  },"2": {
     "doc": "Index",
     "title": "소개",
     "content": "from receptaculum import knowledge time = input() yours = knowledge(time) . Receptaculum은 수학과 물리, 컴퓨터 분야의 지식을 보관하고 열람하기 위한 개인 블로그입니다. 필자는 지식의 전달과 개인의 성찰을 목적으로 이 블로그를 개설하였습니다. 지금까지 습득했던 지식과 경험들, 그리고 이들을 활용하는 방법에 대해 보다 더 많은 사람들에게 평가를 받고 싶습니다. 모든 인간은 완벽하지 않습니다. 하지만 지식의 습득과 집단 지성의 피드백 과정을 통해 발전해 나갈 수 있습니다. 이 블로그를 통해서 모두가 이 목표를 달성할 수 있기를 바랍니다. 필자는 부족한 시간을 적소성대(積小成大)하여, 양질의 지식을 전달하기 위해 최선을 다하겠습니다. ",
     "url": "http://localhost:4000/#%EC%86%8C%EA%B0%9C",
     "relUrl": "/#소개"
-  },"2": {
+  },"3": {
+    "doc": "Index",
+    "title": "블로그 제목의 의미",
+    "content": "Receptaculum은 ‘어떠한 것을 저장함’을 의미하는 라틴어 명사로, reservoir(저장소, 저수지), container(용기)로 대체 표현이 가능합니다. 추가적으로 Receptaculum은 refuge(피난), retreat(후퇴, 퇴각)이라는 의미도 지니고 있습니다. 지식을 저장하는 블로그의 특성과 잠시나마 암담한 현실 속에서 벗어날 수 있는 인터넷 공간이라는 점을 감안하여 블로그 제목을 Receptaculum으로 정한 것입니다. ",
+    "url": "http://localhost:4000/#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EB%AA%A9%EC%9D%98-%EC%9D%98%EB%AF%B8",
+    "relUrl": "/#블로그-제목의-의미"
+  },"4": {
     "doc": "Index",
     "title": "TMI",
-    "content": " ",
+    "content": "필자는 2022년 기준 대학교 2학년생이며, 전공은 전자전기공학입니다. ",
     "url": "http://localhost:4000/#tmi",
     "relUrl": "/#tmi"
-  },"3": {
+  },"5": {
     "doc": "Index",
     "title": "Index",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"4": {
-    "doc": "mathematics",
-    "title": "mathematics",
-    "content": "main . ",
+  },"6": {
+    "doc": "선형대수학",
+    "title": "선형대수학",
+    "content": "선형대수학에 작성된 내용이 없습니다. ",
+    "url": "http://localhost:4000/mathematics/linear_algebra",
+    "relUrl": "/mathematics/linear_algebra"
+  },"7": {
+    "doc": "리눅스",
+    "title": "리눅스",
+    "content": "리눅스에 작성된 내용이 없습니다. ",
+    "url": "http://localhost:4000/computer/linux",
+    "relUrl": "/computer/linux"
+  },"8": {
+    "doc": "수학",
+    "title": "수학",
+    "content": "수학에 작성된 내용이 없습니다. ",
     "url": "http://localhost:4000/mathematics",
     "relUrl": "/mathematics"
-  },"5": {
-    "doc": "physics",
-    "title": "physics",
-    "content": "main . ",
+  },"9": {
+    "doc": "물리",
+    "title": "물리",
+    "content": "물리에 작성된 내용이 없습니다. ",
     "url": "http://localhost:4000/physics",
     "relUrl": "/physics"
-  },"6": {
-    "doc": "test",
-    "title": "test",
-    "content": " ",
-    "url": "http://localhost:4000/test",
-    "relUrl": "/test"
-  },"7": {
-    "doc": "phy",
-    "title": "phy",
-    "content": "asd . ",
-    "url": "http://localhost:4000/physics/test",
-    "relUrl": "/physics/test"
+  },"10": {
+    "doc": "Python",
+    "title": "Python",
+    "content": "Python에 작성된 내용이 없습니다. ",
+    "url": "http://localhost:4000/computer/python",
+    "relUrl": "/computer/python"
   }
 }

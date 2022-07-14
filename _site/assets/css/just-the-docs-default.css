@@ -360,9 +360,9 @@ h3, .text-gamma { font-size: 16px !important; }
 
 @media (min-width: 31.25rem) { h3, .text-gamma { font-size: 18px !important; } }
 
-h4, .text-delta { font-size: 11px !important; font-weight: 400; text-transform: uppercase; letter-spacing: 0.1em; }
+h4, .text-delta { font-size: 12px !important; font-weight: 400; text-transform: uppercase; letter-spacing: 0.1em; }
 
-@media (min-width: 31.25rem) { h4, .text-delta { font-size: 12px !important; } }
+@media (min-width: 31.25rem) { h4, .text-delta { font-size: 14px !important; } }
 
 h4 code { text-transform: none; }
 
