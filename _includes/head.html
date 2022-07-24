@@ -24,6 +24,14 @@
   <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
 
   <link rel="stylesheet" href="{{ '/assets/css/just-the-docs-default.css' | relative_url }}">
+<style>
+.left{float: left;}
+.group{height: 7px;}
+.blink{animation: set 1.0s step-start infinite;float: left;}
+@keyframes set{50%{opacity: 0;}}
+#mini_dir{font-size: small;}
+#excerpt{font-size: medium; border-style: dotted; border-color: #5e5e5e; border-width: 1px; padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px;}
+</style>
 
   {% if site.ga_tracking != nil %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
