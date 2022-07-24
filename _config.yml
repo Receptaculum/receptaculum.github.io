@@ -16,6 +16,9 @@ search:
   rel_url: true
   button: false
 
+toc:
+  ordered_list: true
+
 heading_anchors: true
 
 nav_sort: case_sensitive

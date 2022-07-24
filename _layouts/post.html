@@ -6,9 +6,7 @@ layout: default
 <span id="mini_dir">게시일: {{page.date|date:"%Y/%m/%d"}}&nbsp;<b>|</b>&nbsp;범주: <i>{{page.categories}}</i>&nbsp;<b>|</b>&nbsp;버전: {{page.version}}</span></center>
 <hr/>
 
-{% raw %}
-{% toc %}
-{% endraw %}
+{{content | toc_only}}
 
 <hr/>
 
