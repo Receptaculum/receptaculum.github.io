@@ -35,7 +35,6 @@ color_scheme: dark
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-toc
 
 kramdown:
   syntax_highlighter_opts:
